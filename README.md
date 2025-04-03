@@ -24,7 +24,7 @@ sudo pacman -S readline      # For Arch Linux
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kaveen-lakmuthu/kls.git
+   git clone https://github.com/kaveen-lakmuthu/kls-A-Simple-Unix-Shell.git
    cd kls
    ```
 
